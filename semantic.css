@@ -6,12 +6,12 @@ video{
     width: 500px;
     height: 500px;
 }
-p{
-    color: green; 
-}
 .note{
     color: orange; 
 }
 #intro{
     color: purple; 
+}
+.lorem{
+    color: green;
 }
